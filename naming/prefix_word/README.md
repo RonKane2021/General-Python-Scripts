@@ -1,6 +1,8 @@
-This script is for generating a number series while having a prefix.
+This script is for generating a number series while having a prefix you want to add on before the numbered list.
 
-For example: I have the prefix: ABC000 and I want to generate a list of 20 numbers with that prefix starting with 0.
+For example: 
+
+I have the prefix: ABC000 and I want to generate a list of 20 numbers with that prefix starting with 0.
 
 Output:
 
