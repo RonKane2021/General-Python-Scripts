@@ -1,4 +1,4 @@
-This script is for generating a number series while having a prefix you want to add on before the numbered list.
+# This script is for generating a number series while having a prefix you want to add on before the numbered list.
 
 For example: 
 
