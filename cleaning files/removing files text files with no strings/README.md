@@ -1,6 +1,6 @@
 ### Copying only text files with strings in them
 
-This program looks for words in text files. The files with any strings will be copied to the dest folder and if no words are found then the file is displayed on the python shell.
+This program looks for any strings in text files. The files with strings will be copied to the dest folder and if no words are found then the file is displayed on the python shell. It can be used only keep text files with content inside them.
 
 ## Example
 
